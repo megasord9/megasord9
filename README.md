@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  
 
-<!--
-**megasord9/megasord9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mí
+Ingeniero de sistemas (MySQL Java & Python), interesado en ciberseguridad y creación de apps. Me gusta aprender cosas nuevas, trabajar con redes y automatizar tareas.
+
+---
+
+## 🚀 Tecnologías
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+
+</p>
+
+---
+
+## 📊 Mis números
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=megasord9&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megasord9&layout=compact&theme=tokyonight" height="160" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=megasord9&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+
+
